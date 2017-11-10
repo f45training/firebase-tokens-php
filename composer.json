@@ -1,10 +1,11 @@
 {
-    "name": "kreait/firebase-tokens",
+    "name": "f45training/firebase-tokens",
     "description": "A library to work with Firebase tokens",
     "type": "library",
     "keywords": ["firebase", "google", "token", "authentication", "auth"],
     "homepage": "https://github.com/kreait/firebase-token-php",
     "license": "MIT",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Jérôme Gamez",
